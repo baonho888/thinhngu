@@ -1,3 +1,4 @@
+
 local Notif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Duy02022007/vn/main/nguu"))()
 function df()
 local args = {
@@ -30,7 +31,7 @@ return v2
 end
 ---------------
 
-  local DiscordLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/duybao22009/Discord-Lib/refs/heads/main/Discord_Lib'))()   
+   local DiscordLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/discord"))( 
    local win = DiscordLib:Window("[Khánh Ngọc] ".." ")   
 local per = game:GetService("Players").LocalPlayer.Name
  DiscordLib:Notification("Premium Stars ⭐ Share","Hello! ".."⭐"..per..".                                              ".." Thanks For Buy Premium ","Ok") 
